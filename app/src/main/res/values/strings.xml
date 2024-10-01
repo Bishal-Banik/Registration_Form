@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Registration_Form</string>
+    <!-- Profession Options -->
+    <string-array name="profession_array" color="#fffff">
+        <item>Choose Profession</item>
+        <item>Student</item>
+        <item>Teacher</item>
+        <item>Engineer</item>
+        <item>Doctor</item>
+    </string-array>
+
+    <!-- Department Options -->
+    <string-array name="department_array">
+        <item>Choose Department</item>
+        <item>CSE</item>
+        <item>ENG</item>
+        <item>Business</item>
+        <item>Law</item>
+    </string-array>
+
+    <!-- Form Labels -->
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="contact_hint">Contact Number</string>
+    <string name="password_hint">Password</string>
+    <string name="toggle_password_visibility">Show Password</string>
+    <string name="submit_button">Submit</string>
+
+    <!-- Error Messages -->
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_empty_username">Please enter a username</string>
+    <string name="error_invalid_contact">Invalid contact number</string>
+    <string name="error_invalid_password">Password must be at least 6 characters</string>
+
+    <!-- Displayed Result -->
+    <string name="submitted_info">Submitted Information</string>
+</resources>
